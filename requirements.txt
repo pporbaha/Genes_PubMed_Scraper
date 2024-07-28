@@ -1,0 +1,3 @@
+chromedriver-py==111.*
+selenium
+pandas

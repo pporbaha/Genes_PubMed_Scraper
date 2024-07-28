@@ -1,0 +1,9 @@
+idx	Symbol	ArticleCounts
+2	A2M	6
+3	A2ML1	1
+7	AAAS	1
+8	AACS	1
+13	AADAT	2
+16	AAMDC	2
+18	AANAT	4
+20	AARD	1

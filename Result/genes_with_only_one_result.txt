@@ -1,0 +1,5 @@
+idx	Gene	
+3	A2ML1
+7	AAAS
+8	AACS
+20	AARD

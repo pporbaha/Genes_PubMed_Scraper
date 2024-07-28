@@ -1,0 +1,4 @@
+20
+I extracted until:
+20	AARD
+Schedule was from begin=6 to end='end'
