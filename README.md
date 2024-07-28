@@ -1,4 +1,4 @@
-##Installation Guide
+## Installation Guide
 
 1- First, install Anaconda by searching it on the internet. It is very easy to install.
 2- Find out your Chrome version by opening Chrome and going to "About" page.
